@@ -1,2 +1,2 @@
 # basic-git
-this is my first repository !!
+this is my first repository with another branch !!
